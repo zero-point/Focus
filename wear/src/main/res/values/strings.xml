@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Focus</string>
+
+    <string name="todo_tasks">TODO: Tasks</string>
+    <string name="todo_progress">TODO: Progress</string>
+    <string name="todo_settings">TODO: Settings</string>
+    <string name="todo_help">TODO: Help</string>
+
+    <string name="demo1_title">Set timer</string>
+    <string name="demo1_voice_action">Stops notifications</string>
+    <string name="tasks_header">Tasks</string>
+
+    <string name="demo2_title">Set timer</string>
+    <string name="demo2_voice_action">Say &quot;start focus&quot;</string>
+
+    <string name="demo3_title">Create a task</string>
+    <string name="demo3_voice_action">Say &quot;create task &lt;task-name&gt;&quot;</string>
+
+    <string name="demo4_title">Start a task</string>
+    <string name="demo4_voice_action">Say &quot;focus on &lt;task-name&gt;&quot;</string>
+
+    <string name="demo5_title">Check task</string>
+    <string name="demo5_voice_action">Say &quot;completed &lt;task-name&gt;&quot;</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="play.svg"
+   inkscape:export-filename="/home/futurenode/workspace/Focus/wear/src/main/res/drawable/play.png"
+   inkscape:export-xdpi="750"
+   inkscape:export-ydpi="750">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-0.77270649"
+     inkscape:cy="7.8575487"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:#478ac8;fill-opacity:0.74901960999999984;fill-rule:nonzero;stroke:#000000;stroke-opacity:0"
+       id="path3778"
+       sodipodi:cx="-16"
+       sodipodi:cy="15"
+       sodipodi:rx="44"
+       sodipodi:ry="44"
+       d="m 28,15 a 44,44 0 1 1 -88,0 44,44 0 1 1 88,0 z"
+       transform="matrix(0.18307854,0,0,0.18069551,11.066192,5.3424605)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 5.7010484,4.2001556 5.6568542,12.110913 12.020815,8.2218255 z"
+       id="path4588"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

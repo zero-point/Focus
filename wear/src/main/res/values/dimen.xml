@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="demo_title">30dp</dimen>
+    <dimen name="demo_voice_action">20dp</dimen>
+    <dimen name="task_title">30dp</dimen>
+
+</resources>

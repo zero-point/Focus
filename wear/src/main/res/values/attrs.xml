@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CurvedText">
+        <attr name="text" format="string" />
+        <attr name="valign" format="enum">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+        </attr>
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+</resources>

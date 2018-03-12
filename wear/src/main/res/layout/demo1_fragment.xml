@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:curvedtext="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/demo1" >
+
+    <view
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        class="uk.ac.gla.focuswatch.views.CurvedTextView"
+        android:id="@+id/demo1_title_text"
+        android:layout_gravity="center"
+        curvedtext:textSize="@dimen/demo_title"
+        curvedtext:text="@string/demo1_title"
+        curvedtext:valign="top"/>
+
+    <view
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        class="uk.ac.gla.focuswatch.views.CurvedTextView"
+        android:id="@+id/demo1_voice_action_text"
+        android:layout_gravity="center"
+        curvedtext:textSize="@dimen/demo_voice_action"
+        curvedtext:text="@string/demo1_voice_action"
+        curvedtext:valign="bottom"/>
+</FrameLayout>
